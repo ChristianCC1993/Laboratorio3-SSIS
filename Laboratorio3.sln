@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Laboratorio3", "Laboratorio3\Laboratorio3.dtproj", "{301B00B9-27C3-4936-9368-C24D47CACE75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{301B00B9-27C3-4936-9368-C24D47CACE75}.Development|Default.ActiveCfg = Development
+		{301B00B9-27C3-4936-9368-C24D47CACE75}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A86294CF-1C27-4A21-85A5-9D79539E566B}
+	EndGlobalSection
+EndGlobal
